@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results ignored="0" total="1" passed="1" failed="0" skipped="0">
+  <reporter-output>
+  </reporter-output>
+  <suite started-at="2023-10-04T20:22:37 EET" name="Default suite" finished-at="2023-10-04T20:22:44 EET" duration-ms="6667">
+    <groups>
+    </groups>
+    <test started-at="2023-10-04T20:22:37 EET" name="Default test" finished-at="2023-10-04T20:22:44 EET" duration-ms="6667">
+      <class name="Magento.Login_Test_Cases">
+        <test-method is-config="true" signature="setup()[pri:0, instance:Magento.Login_Test_Cases@7fae4d4a]" started-at="2023-10-04T20:22:37 EET" name="setup" finished-at="2023-10-04T20:22:40 EET" duration-ms="3542" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setup -->
+        <test-method signature="login()[pri:0, instance:Magento.Login_Test_Cases@7fae4d4a]" started-at="2023-10-04T20:22:41 EET" name="login" finished-at="2023-10-04T20:22:44 EET" duration-ms="3075" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- login -->
+        <test-method is-config="true" signature="postTest()[pri:0, instance:Magento.Login_Test_Cases@7fae4d4a]" started-at="2023-10-04T20:22:44 EET" name="postTest" finished-at="2023-10-04T20:22:44 EET" duration-ms="3" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- postTest -->
+      </class> <!-- Magento.Login_Test_Cases -->
+    </test> <!-- Default test -->
+  </suite> <!-- Default suite -->
+</testng-results>
